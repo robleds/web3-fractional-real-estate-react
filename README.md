@@ -1,4 +1,4 @@
-# Brix Frontend React
+# web3-fractional-real-estate-react
 
 WebApp para venda fracionada de imóveis desenvolvida com Next.js e React.
 
@@ -25,8 +25,8 @@ Plataforma web desenvolvida com Next.js que permite a venda fracionada de imóve
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU-USUARIO/brix-frontend-react.git
-cd brix-frontend-react
+git clone https://github.com/SEU-USUARIO/web3-fractional-real-estate-react.git
+cd web3-fractional-real-estate-react
 ```
 
 2. Instale as dependências:
